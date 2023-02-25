@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 656c8f39c33207e4c8040ac53bea193a, type: 3}
+  m_Name: New Player Inventory
+  m_EditorClassIdentifier: 
+  persistentInventory:
+    playerXP: 123456789
+    playerLevel: 1
+    playerCash: 98765
+    unlockedWeapons:
+    - {fileID: 11400000, guid: 5f0b48dc6f0f97540aa40d3e7ab0674f, type: 2}
+    - {fileID: 11400000, guid: 42d82b8a504ba2b4ab4c350259b47b01, type: 2}
+    - {fileID: 11400000, guid: d3b26e3e1d7ac88458655dae9517e488, type: 2}
+    unlockedWeaponAttachments: []
+    unlockedWeaponUpgrades: []
+    unlockedWeaponSkins: []
+    unlockedBonusWeapons: []
+    unlockedHandsSkins: []
+    unlockedPickups: []
+    unlockedPowerups: []
+    unlockedAbilities: []
+    encounteredEnemies: []
+    playedMaps: []
+    unlockedEasterEggs: []
+    unlockedGameExtras: []
+  inGameInventory:
+    equippedWeapon: {fileID: 0}
+    holsteredWeapon: {fileID: 0}
+    throwable1: {fileID: 0}
+    throwable2: {fileID: 0}
+    throwable3: {fileID: 0}
+    throwable4: {fileID: 0}
+    throwable5: {fileID: 0}
+    bulletTimeLeft: 5
