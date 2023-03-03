@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Dark Paradigm PS Vita", "index.html", [
+  [ "Dark Paradigm v0.8", "index.html", [
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ],
       [ "Package Members", "namespacemembers.html", [
@@ -45,11 +45,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ],
-      [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Typedefs", "globals_type.html", null ]
-      ] ]
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
@@ -57,21 +53,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_android_screen_scaler_8cs.html",
-"class_d_p_1_1_a_i_1_1_enemy_dissolve_behavior.html#a53b5a5cc70971f82685628e760b5cff9",
-"class_d_p_1_1_boss_spawn_manager.html#aed09d7c6dfbcb47ccd5a2d8756cb8b8c",
-"class_d_p_1_1_controllers_1_1_weapon_controller.html#a1094d1ba5ea7503c1b8f5aad30d63d53",
-"class_d_p_1_1_dev_tools_1_1_custom_editor_g_u_i_styles.html#a2f8ca8f55639c4d40550af171e4e335a",
-"class_d_p_1_1_gameplay_1_1_day_night_cycle.html#a74b8fd3fba45111575afe8e907a95820",
-"class_d_p_1_1_gameplay_1_1_object_pool.html#ac2a9b81572ffe2f3b6b9a4050b8ed4f9",
-"class_d_p_1_1_intro_still_images.html",
-"class_d_p_1_1_management_1_1_wave_manager.html#a01ad6ebf7a3abb1a8af58c742cb24009",
-"class_d_p_1_1_player_stats_1_1_persistent_stats.html",
-"class_d_p_1_1_scriptable_objects_1_1_player_inventory_1_1_in_game_inventory.html#a325bcb5056ecf19440f73c8b5bd17cbb",
-"class_d_p_1_1_static_data_containers_1_1_p_s4_input_values.html#accc3e9d84dba8a795110fa1fcd13fec2",
-"class_d_p_1_1_u_i_1_1_hitmarker_behavior.html#a70d6bdb1598ce96c426c1cf5ee964437",
-"class_essentials_1_1_colors.html#a2939072e377d2a89249f59460154f2bf",
-"class_gun_aim.html#a5f7137ab1d7b2f8b5e19f12cff5ce497",
-"interface_d_p_1_1_interfaces_1_1_i_shatterable.html"
+"class_d_p_1_1_a_i_1_1_enemy_movement_manager.html#a0c3a0df1e8d7be3d4a3cd424af7c8815",
+"class_d_p_1_1_controllers_1_1_player_animation_controller.html#afb4fbca9f82bfd4a0d6dcb54a8244e79",
+"class_d_p_1_1_controllers_1_1_weapon_controller.html#a47448b06f44a2f8540967c25c97db27e",
+"class_d_p_1_1_dev_tools_1_1_enemy_bounds.html#a15c38b94ced4a48295a4f10ed8b2dc1d",
+"class_d_p_1_1_gameplay_1_1_decal_pool.html#a77f395d08ce0403e913c4e84eae3a480",
+"class_d_p_1_1_gameplay_1_1_slow_motion_manager.html#a229e9a8f0e0b7984e9b7707582fc48db",
+"class_d_p_1_1_management_1_1_game_manager.html#a4bbf6f80be814cb66fd9f193c96f3ff6",
+"class_d_p_1_1_notification_toast.html#a4594d83bd89e2f41b058b816e6a2e9f1",
+"class_d_p_1_1_scriptable_events_1_1_game_event_for_list.html#aee14aba0aadee0c5463af6df36478bb2",
+"class_d_p_1_1_scriptable_objects_1_1_weapon.html#a989b9f744714c606c06918072901d496",
+"class_d_p_1_1_transparency_trigger_for_multiple_materials.html#abc9f8ab5d71bbd47e2b0f28e79fd34d1",
+"class_d_p_1_1_u_i_1_1_weapon_icon_switcher.html#a05d86cd242efa9b07ae3c110536cbe7a",
+"class_essentials_1_1_colors.html#aabe0c22eca00feb7023e0ab7fcfebdde",
+"functions_vars_k.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

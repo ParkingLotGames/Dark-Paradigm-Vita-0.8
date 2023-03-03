@@ -10,5 +10,5 @@ var searchData=
   ['staminabar_7',['StaminaBar',['../class_d_p_1_1_u_i_1_1_stamina_bar.html',1,'DP::UI']]],
   ['startsound_8',['StartSound',['../class_d_p_1_1_start_sound.html',1,'DP']]],
   ['stoptimeforpause_9',['StopTimeForPause',['../class_d_p_1_1_stop_time_for_pause.html',1,'DP']]],
-  ['storedusername_10',['StoredUserName',['../class_d_p_1_1_app_awake_1_1_stored_user_name.html',1,'DP.AppAwake.StoredUserName'],['../class_player_i_d_container_1_1_stored_user_name.html',1,'PlayerIDContainer.StoredUserName']]]
+  ['storedusername_10',['StoredUserName',['../class_d_p_1_1_app_awake_1_1_stored_user_name.html',1,'DP::AppAwake']]]
 ];

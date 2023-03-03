@@ -17,8 +17,5 @@ var searchData=
   ['gravity_14',['gravity',['../class_d_p_1_1_controllers_1_1_player_movement_controller.html#aa39e66b419797b289bdf11e764aa6b3b',1,'DP::Controllers::PlayerMovementController']]],
   ['gray_15',['Gray',['../class_essentials_1_1_colors.html#a614c71d3d6f7fd5bfa4f3e9a8ae00fcd',1,'Essentials::Colors']]],
   ['green_16',['Green',['../class_essentials_1_1_colors.html#a6233f319c8287a9aefde697922e0d897',1,'Essentials::Colors']]],
-  ['greenyellow_17',['GreenYellow',['../class_essentials_1_1_colors.html#afde24f20250c2756e7a00bb2da9a2259',1,'Essentials::Colors']]],
-  ['gunaim_18',['gunAim',['../class_gun_shoot.html#af2f518ac3a15c6dd96d31cafbaef321f',1,'GunShoot']]],
-  ['gunend_19',['gunEnd',['../class_gun_shoot.html#a410c877ec1aefc005cde20740364f7d6',1,'GunShoot']]],
-  ['gungameobject_20',['gunGameObject',['../class_particle_menu.html#a383351f6d5ce0c4c79a020e040f4768c',1,'ParticleMenu']]]
+  ['greenyellow_17',['GreenYellow',['../class_essentials_1_1_colors.html#afde24f20250c2756e7a00bb2da9a2259',1,'Essentials::Colors']]]
 ];

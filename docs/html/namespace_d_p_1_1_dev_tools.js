@@ -3,7 +3,6 @@ var namespace_d_p_1_1_dev_tools =
     [ "AnimationHashManager", "class_d_p_1_1_dev_tools_1_1_animation_hash_manager.html", "class_d_p_1_1_dev_tools_1_1_animation_hash_manager" ],
     [ "Chunk", "class_d_p_1_1_dev_tools_1_1_chunk.html", null ],
     [ "CustomEditorGUIStyles", "class_d_p_1_1_dev_tools_1_1_custom_editor_g_u_i_styles.html", "class_d_p_1_1_dev_tools_1_1_custom_editor_g_u_i_styles" ],
-    [ "Despawner", "class_d_p_1_1_dev_tools_1_1_despawner.html", "class_d_p_1_1_dev_tools_1_1_despawner" ],
     [ "DrawChunkBounds", "class_d_p_1_1_dev_tools_1_1_draw_chunk_bounds.html", "class_d_p_1_1_dev_tools_1_1_draw_chunk_bounds" ],
     [ "EnemyBounds", "class_d_p_1_1_dev_tools_1_1_enemy_bounds.html", "class_d_p_1_1_dev_tools_1_1_enemy_bounds" ],
     [ "EnemyCollider", "class_d_p_1_1_dev_tools_1_1_enemy_collider.html", "class_d_p_1_1_dev_tools_1_1_enemy_collider" ],

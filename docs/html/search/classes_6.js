@@ -8,7 +8,5 @@ var searchData=
   ['gamemanager_5',['GameManager',['../class_d_p_1_1_management_1_1_game_manager.html',1,'DP::Management']]],
   ['gamestatemanager_6',['GameStateManager',['../class_d_p_1_1_management_1_1_game_state_manager.html',1,'DP::Management']]],
   ['graphymanager_7',['GraphyManager',['../class_d_p_1_1_cross_platform_1_1_graphy_manager.html',1,'DP::CrossPlatform']]],
-  ['groundcollider_8',['GroundCollider',['../class_d_p_1_1_ground_collider.html',1,'DP']]],
-  ['gunaim_9',['GunAim',['../class_gun_aim.html',1,'']]],
-  ['gunshoot_10',['GunShoot',['../class_gun_shoot.html',1,'']]]
+  ['groundcollider_8',['GroundCollider',['../class_d_p_1_1_ground_collider.html',1,'DP']]]
 ];

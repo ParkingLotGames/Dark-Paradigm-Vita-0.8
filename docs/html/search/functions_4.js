@@ -9,7 +9,5 @@ var searchData=
   ['enableshooting_6',['EnableShooting',['../class_d_p_1_1_controllers_1_1_weapon_controller.html#a6846aa8d9f9576185936981b88c06b6d',1,'DP::Controllers::WeaponController']]],
   ['exitphotomodebehavior_7',['ExitPhotoModeBehavior',['../class_d_p_1_1_management_1_1_game_manager.html#a7cb8dd5380c64f13009765fa4ec3083e',1,'DP::Management::GameManager']]],
   ['expandcrosshairs_8',['ExpandCrosshairs',['../class_d_p_1_1_u_i_1_1_dynamic_crosshairs.html#adf36125c43e65d6749de32b1ba1d49bd',1,'DP::UI::DynamicCrosshairs']]],
-  ['explode_9',['Explode',['../interface_d_p_1_1_interfaces_1_1_i_shatterable.html#a20f1f2067513a39a41b6d4689ccde4bc',1,'DP::Interfaces::IShatterable']]],
-  ['extinguish_10',['Extinguish',['../class_extinguishable_fire.html#a07e0c3c49a9609db356582f780e5df67',1,'ExtinguishableFire']]],
-  ['extinguishing_11',['Extinguishing',['../class_extinguishable_fire.html#a82542b14ebd13dee85749be2a9f0e64d',1,'ExtinguishableFire']]]
+  ['explode_9',['Explode',['../interface_d_p_1_1_interfaces_1_1_i_shatterable.html#a20f1f2067513a39a41b6d4689ccde4bc',1,'DP::Interfaces::IShatterable']]]
 ];

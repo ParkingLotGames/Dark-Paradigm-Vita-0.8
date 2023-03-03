@@ -32,7 +32,6 @@ var annotated_dup =
         [ "AnimationHashManager", "class_d_p_1_1_dev_tools_1_1_animation_hash_manager.html", "class_d_p_1_1_dev_tools_1_1_animation_hash_manager" ],
         [ "Chunk", "class_d_p_1_1_dev_tools_1_1_chunk.html", null ],
         [ "CustomEditorGUIStyles", "class_d_p_1_1_dev_tools_1_1_custom_editor_g_u_i_styles.html", "class_d_p_1_1_dev_tools_1_1_custom_editor_g_u_i_styles" ],
-        [ "Despawner", "class_d_p_1_1_dev_tools_1_1_despawner.html", "class_d_p_1_1_dev_tools_1_1_despawner" ],
         [ "DrawChunkBounds", "class_d_p_1_1_dev_tools_1_1_draw_chunk_bounds.html", "class_d_p_1_1_dev_tools_1_1_draw_chunk_bounds" ],
         [ "EnemyBounds", "class_d_p_1_1_dev_tools_1_1_enemy_bounds.html", "class_d_p_1_1_dev_tools_1_1_enemy_bounds" ],
         [ "EnemyCollider", "class_d_p_1_1_dev_tools_1_1_enemy_collider.html", "class_d_p_1_1_dev_tools_1_1_enemy_collider" ],
@@ -40,9 +39,6 @@ var annotated_dup =
         [ "LevelPrefab", "class_d_p_1_1_dev_tools_1_1_level_prefab.html", null ],
         [ "PlatformDependantDocksLevelReplacer", "class_d_p_1_1_dev_tools_1_1_platform_dependant_docks_level_replacer.html", "class_d_p_1_1_dev_tools_1_1_platform_dependant_docks_level_replacer" ],
         [ "SelfDeactivatingDespawner", "class_d_p_1_1_dev_tools_1_1_self_deactivating_despawner.html", "class_d_p_1_1_dev_tools_1_1_self_deactivating_despawner" ]
-      ] ],
-      [ "EditorTools", "namespace_d_p_1_1_editor_tools.html", [
-        [ "ModelRotate", "class_d_p_1_1_editor_tools_1_1_model_rotate.html", "class_d_p_1_1_editor_tools_1_1_model_rotate" ]
       ] ],
       [ "Gameplay", "namespace_d_p_1_1_gameplay.html", [
         [ "BulletSpawn", "class_d_p_1_1_gameplay_1_1_bullet_spawn.html", "class_d_p_1_1_gameplay_1_1_bullet_spawn" ],
@@ -59,9 +55,6 @@ var annotated_dup =
         [ "MuzzleFlashBehavior", "class_d_p_1_1_gameplay_1_1_muzzle_flash_behavior.html", "class_d_p_1_1_gameplay_1_1_muzzle_flash_behavior" ],
         [ "ObjectPool", "class_d_p_1_1_gameplay_1_1_object_pool.html", "class_d_p_1_1_gameplay_1_1_object_pool" ],
         [ "OldExplainedObjectPool", "class_d_p_1_1_gameplay_1_1_old_explained_object_pool.html", "class_d_p_1_1_gameplay_1_1_old_explained_object_pool" ],
-        [ "PickupDespawner", "class_d_p_1_1_gameplay_1_1_pickup_despawner.html", "class_d_p_1_1_gameplay_1_1_pickup_despawner" ],
-        [ "PickupPool", "class_d_p_1_1_gameplay_1_1_pickup_pool.html", "class_d_p_1_1_gameplay_1_1_pickup_pool" ],
-        [ "PickupTrigger", "class_d_p_1_1_gameplay_1_1_pickup_trigger.html", "class_d_p_1_1_gameplay_1_1_pickup_trigger" ],
         [ "PlayerCameraSwitch", "class_d_p_1_1_gameplay_1_1_player_camera_switch.html", "class_d_p_1_1_gameplay_1_1_player_camera_switch" ],
         [ "PlayerDamageReceiver", "class_d_p_1_1_gameplay_1_1_player_damage_receiver.html", "class_d_p_1_1_gameplay_1_1_player_damage_receiver" ],
         [ "SlowMotionManager", "class_d_p_1_1_gameplay_1_1_slow_motion_manager.html", "class_d_p_1_1_gameplay_1_1_slow_motion_manager" ],
@@ -81,9 +74,6 @@ var annotated_dup =
         [ "GameStateManager", "class_d_p_1_1_management_1_1_game_state_manager.html", "class_d_p_1_1_management_1_1_game_state_manager" ],
         [ "UnlockablesManager", "class_d_p_1_1_management_1_1_unlockables_manager.html", "class_d_p_1_1_management_1_1_unlockables_manager" ],
         [ "WaveManager", "class_d_p_1_1_management_1_1_wave_manager.html", "class_d_p_1_1_management_1_1_wave_manager" ]
-      ] ],
-      [ "PostProcessing", "namespace_d_p_1_1_post_processing.html", [
-        [ "UnderwaterCameraFX", "class_d_p_1_1_post_processing_1_1_underwater_camera_f_x.html", "class_d_p_1_1_post_processing_1_1_underwater_camera_f_x" ]
       ] ],
       [ "PSVita", "namespace_d_p_1_1_p_s_vita.html", [
         [ "System", "namespace_d_p_1_1_p_s_vita_1_1_system.html", [
@@ -203,21 +193,12 @@ var annotated_dup =
         [ "AppBuildType", "class_p_l_s_1_1_dev_tools_1_1_app_build_type.html", "class_p_l_s_1_1_dev_tools_1_1_app_build_type" ]
       ] ]
     ] ],
-    [ "BRDFLookupTexture", "class_b_r_d_f_lookup_texture.html", "class_b_r_d_f_lookup_texture" ],
-    [ "DecalDestroyer", "class_decal_destroyer.html", "class_decal_destroyer" ],
     [ "DisplayHighscores", "class_display_highscores.html", "class_display_highscores" ],
-    [ "ExtinguishableFire", "class_extinguishable_fire.html", "class_extinguishable_fire" ],
     [ "FPSCameraBehavior", "class_f_p_s_camera_behavior.html", "class_f_p_s_camera_behavior" ],
     [ "FullScreenIntroVideoPlayer", "class_full_screen_intro_video_player.html", null ],
     [ "GameIntroVideoPlayer", "class_game_intro_video_player.html", null ],
-    [ "GunAim", "class_gun_aim.html", "class_gun_aim" ],
-    [ "GunShoot", "class_gun_shoot.html", "class_gun_shoot" ],
     [ "HighScores", "class_high_scores.html", "class_high_scores" ],
-    [ "ParticleCollision", "class_particle_collision.html", "class_particle_collision" ],
-    [ "ParticleExamples", "class_particle_examples.html", "class_particle_examples" ],
-    [ "ParticleMenu", "class_particle_menu.html", "class_particle_menu" ],
     [ "Perlin", "class_perlin.html", "class_perlin" ],
-    [ "PlayerIDContainer", "class_player_i_d_container.html", "class_player_i_d_container" ],
     [ "PlayerScore", "struct_player_score.html", "struct_player_score" ],
     [ "RemoveOnFPS", "class_remove_on_f_p_s.html", "class_remove_on_f_p_s" ],
     [ "Torque", "class_torque.html", "class_torque" ],

@@ -17,6 +17,5 @@ var searchData=
   ['enemyspawnmanager_2ecs_14',['EnemySpawnManager.cs',['../_enemy_spawn_manager_8cs.html',1,'']]],
   ['enemyspecificinterfaces_2ecs_15',['EnemySpecificInterfaces.cs',['../_enemy_specific_interfaces_8cs.html',1,'']]],
   ['enemystatecomponent_2ecs_16',['EnemyStateComponent.cs',['../_enemy_state_component_8cs.html',1,'']]],
-  ['enemyundissolvetrigger_2ecs_17',['EnemyUndissolveTrigger.cs',['../_enemy_undissolve_trigger_8cs.html',1,'']]],
-  ['extinguishablefire_2ecs_18',['ExtinguishableFire.cs',['../_extinguishable_fire_8cs.html',1,'']]]
+  ['enemyundissolvetrigger_2ecs_17',['EnemyUndissolveTrigger.cs',['../_enemy_undissolve_trigger_8cs.html',1,'']]]
 ];

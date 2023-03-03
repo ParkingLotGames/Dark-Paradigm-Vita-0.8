@@ -20,6 +20,5 @@ var searchData=
   ['enemystatecomponent_17',['EnemyStateComponent',['../class_d_p_1_1_a_i_1_1_enemy_state_component.html',1,'DP::AI']]],
   ['enemyundissolvetrigger_18',['EnemyUndissolveTrigger',['../class_d_p_1_1_enemy_undissolve_trigger.html',1,'DP']]],
   ['environmentbitmasks_19',['EnvironmentBitMasks',['../class_d_p_1_1_scriptable_objects_1_1_impactable_layers_1_1_environment_bit_masks.html',1,'DP::ScriptableObjects::ImpactableLayers']]],
-  ['events_20',['Events',['../class_d_p_1_1_controllers_1_1_weapon_controller_1_1_events.html',1,'DP::Controllers::WeaponController']]],
-  ['extinguishablefire_21',['ExtinguishableFire',['../class_extinguishable_fire.html',1,'']]]
+  ['events_20',['Events',['../class_d_p_1_1_controllers_1_1_weapon_controller_1_1_events.html',1,'DP::Controllers::WeaponController']]]
 ];
