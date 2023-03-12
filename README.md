@@ -1,8 +1,10 @@
 # Dark Paradigm Vita v0.08 source
-This repository contains the source code for [Dark Paradigm](https://vitadb.rinnegatamante.it/#/info/594) v0.0.8a (Jun 2021)
+This repository contains the source code for [Dark Paradigm](https://vitadb.rinnegatamante.it/#/info/594) (currently v0.0.8a/Jun 2021)
 
 # About
+### [Gamebrew wiki](https://www.gamebrew.org/wiki/Dark_Paradigm_Vita)
 ### [Online Documentation](https://dark-paradigm-ps-vita.vercel.app/)
+
 ## FAQ
 
 
@@ -20,6 +22,7 @@ This repository contains the source code for [Dark Paradigm](https://vitadb.rinn
 * Some shaders are broken.
 * No scenes or models included (yet).
 * This version contains a fair amount of bugs.
+* Large classes being reimplemented
 
 # TODO
 
